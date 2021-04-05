@@ -152,6 +152,7 @@ pvea (pronounced pea-va) is a modern and up-to-date node.js client for the proxm
     - [X] execGetQemuAgentCommand(node, vmid, command)
     - [X] execPostQemuAgentCommand(node, vmid, command, params)
     - [X] deleteQemuVm(node, vmid, param) 
+    - [X] getCurrentQemuVmState(node, vmid)
 - [ ] Write documentation for this library.
 
 ## Example:
