@@ -176,16 +176,15 @@ pvea (pronounced pea-va) is a modern and up-to-date node.js client for the proxm
     pvea.run(main)
 
 
-## Main contributors
-As of now, [Ami](https://github.com/AmiCole) is the only main contributor.
-
+## Contributors
+Thank you [Jade](https://github.com/kurusukono), [uqlel](https://github.com/uqlel), and [simonfrfr](https://github.com/simonfrfr).
 
 ## Notes
 Thanks to [ttarvis](https://github.com/ttarvis) for writing [node-proxmox](https://github.com/ttarvis/node-proxmox)! Code was used for reference and function names are taken from it. Also thanks to [alo-is](https://github.com/alo-is) for writing another module also called [node-proxmox](https://github.com/alo-is/node-proxmox).
 
 ## License
 
-Copyright 2020 Ami Cole
+Copyright 2020 Jade Cole
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
